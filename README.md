@@ -35,4 +35,4 @@ in my [`dotfiles`](github.com/fist-it/dotfiles) repository
 
 ###### personal
 
-(Internet Animal tierlist)[github.com/fist-it/fist-it/animalTierlist.md]
+[Internet Animal tierlist](animalTierlist.md)
