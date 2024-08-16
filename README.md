@@ -8,7 +8,9 @@ whether it's a front-end framework, a tool or a language.
 
 #### Technologies
 
-Languages:
+
+
+Languages: (more familiar with **bold** ones)
 - **`C`**
 - **`C++`**
 - `Java`
