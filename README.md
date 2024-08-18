@@ -32,7 +32,7 @@ Frameworks:
 - `Pure PHP`
 - `Svelte`
 
-If you want to know about my tools, everything you need to know is
+If you want to know about my tools, everything you need is
 in my [`dotfiles`](github.com/fist-it/dotfiles) repository
 
 ###### personal
