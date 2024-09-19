@@ -1,6 +1,6 @@
 ![Metrics](/github-metrics.svg)
 
-### Technologies
+##### My stack
 
 Languages:
 - **`C`**
@@ -15,6 +15,7 @@ Languages:
 - **`Go`**
 - `Rust`
 - **`PHP`**
+- `nix`
 
 Frameworks:
 - `React.js`
