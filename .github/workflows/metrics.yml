@@ -43,5 +43,5 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_repositories: yes
-          plugin_repositories_featured: dotfiles
+          plugin_repositories_featured: dotfiles, MFM_Racing, all_in-BEST2025
           plugin_repositories_order: featured, pinned, starred, random
